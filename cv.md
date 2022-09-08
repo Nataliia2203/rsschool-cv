@@ -8,7 +8,7 @@ Junior Frontend Developer
 ## Contact Information
 * Phone +380665863673
 * E-mail: Nataliia.Herasymova@gmail.com
-* Git Hub: Nataliia2203
+* GitHub: Nataliia2203
 * Telegram: @NataliiaGera
 *********************************************
 ## About Me
@@ -45,7 +45,7 @@ const repeat = (text, times)=> {
 *************************************************************************************
 ## Education
 * Kirovograd National Technical University, Electrical power consumtion systems from 2003 till 2008
-* Courses - RS Scool Course "JavaScript/Front-end Stage 1" (inprogress)
+* Courses - RS Scool Course "JavaScript/Front-end Stage 1" (in progress)
 * ************************************************************************************
 ## Languages
 * Ukrainian - native speaker

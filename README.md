@@ -1,2 +1,2 @@
-# rsscool-cv
-https://Nataliia2203.github.io/rsscool-cv/cv
+# rsschool-cv
+https://Nataliia2203.github.io/rsschool-cv/cv

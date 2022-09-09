@@ -46,7 +46,7 @@ const repeat = (text, times)=> {
 ## Education
 * Kirovograd National Technical University, 
   Electrical power consumtion systems from 2003 till 2008
-* Courses - RS Scool Course "JavaScript/Front-end Stage 1" (in progress)
+* Courses - RS School Course "JavaScript/Front-end Stage 1" (in progress)
 *********************
 ## Languages
 * Ukrainian - native speaker
